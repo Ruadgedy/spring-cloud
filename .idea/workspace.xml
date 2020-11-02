@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="70a41666-0a64-446d-829b-5626c99ed3eb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Go File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="HierarchyBrowserManager">
+    <option name="SORT_ALPHABETICALLY" value="true" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="/usr/local/Cellar/maven/3.6.3_1/libexec" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="delegateBuildToMaven" value="true" />
+  </component>
+  <component name="ProjectId" id="1jPrYD4ETWhN26rDr7APuBFosv6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/products9998/src/test/java/com/example/products9998/main" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.users.entity" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.users.fallback" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Go Build.go build learn.go">
+    <configuration name="go build learn.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="products9998" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/products9998/src/test/java/com/example/products9998/main/learn.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="LeetcodeTests.BFS (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="products9998" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.products9998.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.products9998" />
+      <option name="MAIN_CLASS_NAME" value="com.example.products9998.LeetcodeTests" />
+      <option name="METHOD_NAME" value="BFS" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeetcodeTests.BFS" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="products9998" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.products9998.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.products9998" />
+      <option name="MAIN_CLASS_NAME" value="com.example.products9998.LeetcodeTests" />
+      <option name="METHOD_NAME" value="BFS(java.lang.String)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeetcodeTests.testHashCode" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="products9998" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.products9998.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.products9998" />
+      <option name="MAIN_CLASS_NAME" value="com.example.products9998.LeetcodeTests" />
+      <option name="METHOD_NAME" value="testHashCode" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeetcodeTests.testOpenLock" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="products9998" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.products9998.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.products9998" />
+      <option name="MAIN_CLASS_NAME" value="com.example.products9998.LeetcodeTests" />
+      <option name="METHOD_NAME" value="testOpenLock" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Eurekaclient8888Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eurekaclient8888" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.eurekaclient8888.Eurekaclient8888Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Eurekaserver8761Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eurekaserver8761" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.eurekaserver8761.Eurekaserver8761Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Gateway8500Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gateway8500" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.gateway8500.Gateway8500Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Gateway8989Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gateway8989" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.gateway8989.Gateway8989Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HystrixDashboardApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hystrix-dashboard" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.hystrixdashboard.HystrixDashboardApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Products9998Application (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="products9998" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.products9998.Products9998Application" />
+      <option name="VM_PARAMETERS" value="-Dserver.port=9997" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Products9998Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="products9998" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.products9998.Products9998Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringCloudApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-cloud" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.springcloud.SpringCloudApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UsersApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="users" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.users.UsersApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.LeetcodeTests.BFS" />
+      <item itemvalue="JUnit.LeetcodeTests.BFS (1)" />
+      <item itemvalue="JUnit.LeetcodeTests.testOpenLock" />
+      <item itemvalue="Spring Boot.Eurekaclient8888Application" />
+      <item itemvalue="Spring Boot.Eurekaserver8761Application" />
+      <item itemvalue="Spring Boot.Products9998Application (1)" />
+      <item itemvalue="Spring Boot.Products9998Application" />
+      <item itemvalue="Spring Boot.SpringCloudApplication" />
+      <item itemvalue="Spring Boot.UsersApplication" />
+      <item itemvalue="JUnit.LeetcodeTests.testHashCode" />
+      <item itemvalue="Spring Boot.HystrixDashboardApplication" />
+      <item itemvalue="Spring Boot.Gateway8500Application" />
+      <item itemvalue="Spring Boot.Gateway8989Application" />
+      <item itemvalue="Go Build.go build learn.go" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build learn.go" />
+        <item itemvalue="JUnit.LeetcodeTests.testHashCode" />
+        <item itemvalue="JUnit.LeetcodeTests.testOpenLock" />
+        <item itemvalue="JUnit.LeetcodeTests.BFS (1)" />
+        <item itemvalue="JUnit.LeetcodeTests.BFS" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.20118983" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Not Started" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="70a41666-0a64-446d-829b-5626c99ed3eb" name="Default Changelist" comment="" />
+      <created>1603716612234</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603716612234</updated>
+      <workItem from="1603716615615" duration="73126000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1423" y="65" key="#Products9998Application_(1)" timestamp="1603870588455">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="-1423" y="65" key="#Products9998Application_(1)/0.23.1280.777/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1603870588455" />
+    <state x="-1360" y="217" key="#Project_Structure" timestamp="1604221814001">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="-1360" y="217" key="#Project_Structure/0.23.1280.777/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1604221814001" />
+    <state x="-1222" y="313" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1604215477077">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="-1222" y="313" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.23.1280.777/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1604215477077" />
+    <state x="-1173" y="263" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1603861704657">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="-1173" y="263" key="#com.intellij.ide.macro.MacrosDialog/0.23.1280.777/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1603861704657" />
+    <state x="-1147" y="268" key="#com.intellij.ide.util.MemberChooser" timestamp="1604295502947">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="-1147" y="268" key="#com.intellij.ide.util.MemberChooser/0.23.1280.777/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1604295502947" />
+    <state x="-1049" y="311" width="461" height="480" key="#xdebugger.XInspectDialog" timestamp="1604238209283">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="-1049" y="311" width="461" height="480" key="#xdebugger.XInspectDialog/0.23.1280.777/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1604238209283" />
+    <state width="1476" height="290" key="GridCell.Tab.0.bottom" timestamp="1604295937550">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1476" height="290" key="GridCell.Tab.0.bottom/0.23.1280.777/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1604295937550" />
+    <state width="1476" height="290" key="GridCell.Tab.0.center" timestamp="1604295937549">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1476" height="290" key="GridCell.Tab.0.center/0.23.1280.777/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1604295937549" />
+    <state width="1476" height="290" key="GridCell.Tab.0.left" timestamp="1604295937546">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1476" height="290" key="GridCell.Tab.0.left/0.23.1280.777/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1604295937546" />
+    <state width="1476" height="290" key="GridCell.Tab.0.right" timestamp="1604295937549">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1476" height="290" key="GridCell.Tab.0.right/0.23.1280.777/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1604295937549" />
+    <state width="1476" height="290" key="GridCell.Tab.1.bottom" timestamp="1604295937552">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1476" height="290" key="GridCell.Tab.1.bottom/0.23.1280.777/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1604295937552" />
+    <state width="1476" height="290" key="GridCell.Tab.1.center" timestamp="1604295937551">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1476" height="290" key="GridCell.Tab.1.center/0.23.1280.777/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1604295937551" />
+    <state width="1476" height="290" key="GridCell.Tab.1.left" timestamp="1604295937550">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1476" height="290" key="GridCell.Tab.1.left/0.23.1280.777/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1604295937550" />
+    <state width="1476" height="290" key="GridCell.Tab.1.right" timestamp="1604295937551">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1476" height="290" key="GridCell.Tab.1.right/0.23.1280.777/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1604295937551" />
+    <state width="1476" height="290" key="GridCell.Tab.2.bottom" timestamp="1603941968773">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1476" height="290" key="GridCell.Tab.2.bottom/0.23.1280.777/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1603941968773" />
+    <state width="1476" height="290" key="GridCell.Tab.2.center" timestamp="1603941968773">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1476" height="290" key="GridCell.Tab.2.center/0.23.1280.777/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1603941968773" />
+    <state width="1476" height="290" key="GridCell.Tab.2.left" timestamp="1603941968773">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1476" height="290" key="GridCell.Tab.2.left/0.23.1280.777/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1603941968773" />
+    <state width="1476" height="290" key="GridCell.Tab.2.right" timestamp="1603941968773">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1476" height="290" key="GridCell.Tab.2.right/0.23.1280.777/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1603941968773" />
+    <state x="-1372" y="293" key="IDE.errors.dialog" timestamp="1603719060937">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="-1372" y="293" key="IDE.errors.dialog/0.23.1280.777/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1603719060937" />
+    <state x="-1422" y="213" key="Maven.ArtifactSearchDialog" timestamp="1604216050893">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="-1422" y="213" key="Maven.ArtifactSearchDialog/0.23.1280.777/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1604216050893" />
+    <state x="-1451" y="190" key="SettingsEditor" timestamp="1604214775881">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="-1451" y="190" key="SettingsEditor/0.23.1280.777/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1604214775881" />
+    <state x="-1531" y="255" key="new project wizard" timestamp="1604221868551">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="-1531" y="255" key="new project wizard/0.23.1280.777/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1604221868551" />
+    <state x="-1295" y="256" key="run.anything.popup" timestamp="1603936348514">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="-1295" y="256" key="run.anything.popup/0.23.1280.777/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1603936348514" />
+    <state x="-1295" y="258" width="670" height="676" key="search.everywhere.popup" timestamp="1604239236640">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="-1295" y="258" width="670" height="676" key="search.everywhere.popup/0.23.1280.777/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1604239236640" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/products9998/src/test/java/com/example/products9998/main/learn.go</url>
+          <line>16</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/products9998/src/test/java/com/example/products9998/main/learn.go</url>
+          <line>30</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="GoApplicationRunConfiguration">
+        <watch expression="b" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/eurekaclient8888/eurekaclient8888.iml" filepath="$PROJECT_DIR$/eurekaclient8888/eurekaclient8888.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eurekaserver8761/eurekaserver8761.iml" filepath="$PROJECT_DIR$/eurekaserver8761/eurekaserver8761.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateway8989/gateway8989.iml" filepath="$PROJECT_DIR$/gateway8989/gateway8989.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hystrix-dashboard/hystrix-dashboard.iml" filepath="$PROJECT_DIR$/hystrix-dashboard/hystrix-dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/products9998/products9998.iml" filepath="$PROJECT_DIR$/products9998/products9998.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud.iml" filepath="$PROJECT_DIR$/spring-cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/users/users.iml" filepath="$PROJECT_DIR$/users/users.iml" />
+    </modules>
+  </component>
+</project>

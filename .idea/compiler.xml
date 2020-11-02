@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="users" />
+        <module name="gateway8989" />
+        <module name="eurekaclient8888" />
+        <module name="gateway8500" />
+        <module name="hystrix-dashboard" />
+        <module name="products9998" />
+        <module name="spring-cloud" />
+        <module name="eurekaserver8761" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="consulclient8889" target="1.8" />
+      <module name="eurekaclient8888" target="1.8" />
+      <module name="eurekaserver8761" target="1.8" />
+      <module name="gateway8500" target="1.8" />
+      <module name="gateway8989" target="1.8" />
+      <module name="hystrix-dashboard" target="1.8" />
+      <module name="products9998" target="1.8" />
+      <module name="spring-cloud" target="1.8" />
+      <module name="users" target="1.8" />
+      <module name="users9999" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="consulclient8889" options="-parameters" />
+      <module name="eurekaclient8888" options="-parameters" />
+      <module name="eurekaserver8761" options="-parameters" />
+      <module name="gateway8500" options="-parameters" />
+      <module name="gateway8989" options="-parameters" />
+      <module name="hystrix-dashboard" options="-parameters" />
+      <module name="products9998" options="-parameters" />
+      <module name="spring-cloud" options="-parameters" />
+      <module name="users" options="-parameters" />
+      <module name="users9999" options="-parameters" />
+    </option>
+  </component>
+</project>
